@@ -1,6 +1,7 @@
 ## 个人简历
 
 姓名:李虎虎  
+
 性别:男  
 出生年份:1996  
 本科  
@@ -55,5 +56,6 @@ Email ttl_hu@163.com
 #### 基于pdf.js的vue插件  
 
 完成对多种方式pdf渲染、字段高亮、滚动等功能  
+
 项目地址:https://github.com/TigerLiv/vue-pdf-viewer
 
