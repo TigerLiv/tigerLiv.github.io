@@ -6,6 +6,7 @@
 性别:男  
 出生年份:1996  
 本科（2014.9-2018.6）  
+专业  计算机科学与技术  
 GitHub：https://github.com/TigerLiv?tab=repositories
 
 #### 联系方式
