@@ -47,7 +47,9 @@ Email ttl_hu@163.com
 
 #### Datadeck(团队协作的数据整合平台)   
 
-主要负责新功能的开发，bug的修复，UI交互优化，通用组件开发等，公司原先使用angular写的部分内容用Vue进行重构。 公司内部UI组件库  
+主要负责新功能的开发，bug的修复，UI交互优化，通用组件开发等，公司原先使用angular写的部分内容用Vue进行重构。  
+
+#### 公司内部UI组件库  
 
 完成公司内部UI组件库，UI组件库项目线上地址:http://component.datadeck.com/#/  
 
