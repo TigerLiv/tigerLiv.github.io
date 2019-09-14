@@ -5,14 +5,14 @@
 姓名:李虎虎  
 性别:男  
 出生年份:1996  
-本科  
+本科（2014.9-2018.6）  
 GitHub：https://github.com/TigerLiv?tab=repositories
 
 #### 联系方式
 
 手机号 17610786610  
 微信 384766119  
-地址 北京  
+地点 北京  
 Email ttl_hu@163.com  
 
 ### 技能描述
