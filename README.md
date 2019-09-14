@@ -8,10 +8,10 @@ GitHub：https://github.com/TigerLiv?tab=repositories
 
 #### 联系方式
 
-手机号 17610786610
-微信 384766119
-地址 北京
-Email ttl_hu@163.com
+手机号 17610786610  
+微信 384766119  
+地址 北京  
+Email ttl_hu@163.com  
 
 ### 技能描述
 
