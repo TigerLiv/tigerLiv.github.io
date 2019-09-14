@@ -18,9 +18,16 @@ Email ttl_hu@163.com
 
 ### 技能描述
 
-掌握HTML、CSS、JavaScript、ES6、SCSS、Vue、Vuex、HTTP、移动端H5、Webpack、Chrome extension、Echarts、el ement-ui、Git、性能优化
+熟练掌握 HTML5/CSS3/JS/Ajax/ES6、7/HTTP/canvas等常用技术。  
 
-熟悉常用Linux命令，了解TypeScript、Java、MySQL。良好的英文阅读能力
+可熟练开发基于 Vue/Vuex、SCSS、LESS等技术栈的PC和移动端应用。  
+
+掌握Webpack、babel的使用。并可熟练使用 eCharts、pdf.js等第三方插件。  
+
+掌握前端性能优化。熟练使用 Git 管理项目版本。可独立开发 Chrome extension。  
+
+熟悉常用Linux命令，了解TypeScript、Java、MySQL。良好的英文阅读能力  
+
 
 ### 2018.7-至今 北京香侬慧语科技有限责任公司 前端工程师  
 
